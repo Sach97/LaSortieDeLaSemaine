@@ -5,7 +5,7 @@ Projet Scolaire qui a eu pour but d'apprendre les principaux langages (html, css
 - Dézipper "app.zip"
 - Placer le dossier dans votre localhost/www
 - importer la bdd et la nommer "sls_soutenance" ou penser à la renommer dans app/sdls/class/Database.php
-- Pour tester l'utilisateur Test est admin
+- Pour tester l'utilisateur "Test" est admin
 - mot de passe : 11
 
 # Fonctionnalités
