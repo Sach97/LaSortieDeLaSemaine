@@ -29,6 +29,9 @@ Evénement :
 - créer un événement
 - signaler un événement
 
+# RESPONSIVE DESIGN
+L'accent a été mis sur le responsive design dès le début du projet
+
 # TODO
 - refactoriser l'upload en POO
 - debugger le forum
