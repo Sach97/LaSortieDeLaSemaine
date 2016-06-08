@@ -7,6 +7,7 @@ Projet Scolaire qui a eu pour but d'apprendre les principaux langages (html, css
 - importer la bdd et la nommer "sls_soutenance" ou penser à la renommer dans app/sdls/class/Database.php
 - Pour tester l'utilisateur "Test" est admin
 - mot de passe : 11
+- pour l'envoi de mail en local j'ai dû installer : https://www.npmjs.com/package/maildev
 
 # Fonctionnalités
 Espace membre fonctionnel (écrit en POO):
@@ -18,7 +19,7 @@ Système d'upload fonctionnel:
 - upload l'avatar de l'utilisateur / l'image d'un événement et l'enregistre sur le serveur avec le bon id
 
 Recherche avancée fonctionnelle :
-- autocomplétion
+- autocomplétion en ajax
 - filtrage par checkbox
 
 Backoffice :
